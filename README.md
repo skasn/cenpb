@@ -1,5 +1,4 @@
 ## Non-canonical DNA structures at eukaryotic centromeres can resolve the CENP-B paradox
----
 
 Code for performing analyses and generating figures from
 
