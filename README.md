@@ -1,8 +1,8 @@
 ## Non-canonical DNA structures at eukaryotic centromeres can resolve the CENP-B paradox
 
-Code for performing analyses and generating figures from
+Code for performing analyses and generating figures from:
 
-> Siva Kasinathan & Steven Henikoff, "Non-canonical DNA structures at eukaryotic centromeres can resolve the CENP-B paradox."
+> Sivakanthan Kasinathan & Steven Henikoff, "Non-canonical DNA structures at eukaryotic centromeres can resolve the CENP-B paradox" to be uploaded to [bioRxiv](http://www.biorxiv.org).
 
 [`code/`](code/): scripts used for analyses
 
